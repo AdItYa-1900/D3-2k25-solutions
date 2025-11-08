@@ -10,4 +10,4 @@ Submissions of all problem statement solutions.
 
 | Team Name | Project Link |
 |------------|---------------|
-| Hackasauras | [Drawisly](https://github.com/SobhanSah00/iiit_bbsrDrawisly) |
+| Magic Monks | [Maven](https://github.com/AdItYa-1900/Maven/tree/main) |
